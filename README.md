@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![readme](https://user-images.githubusercontent.com/62259550/110251107-f5caba00-7fa4-11eb-8076-c84e6efe435c.gif)
 <!--
 **raunakkolle/raunakkolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
